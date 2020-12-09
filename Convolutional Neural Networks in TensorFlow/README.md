@@ -11,7 +11,7 @@ This second course teaches you advanced techniques to improve the computer visio
 - Working through the notebook
 - Fixing through cropping
 - Looking at accuracy and loss
-- [Week 1 - Classifying Cats and Dogs.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/2.%20CNN%20in%20Tensorflow/Week%201%20-%20Classifying%20Cats%20and%20Dogs.ipynb)
+- [Week 1 - Classifying Cats and Dogs.ipynb](https://github.com/jefftavlin/Courses/blob/main/Convolutional%20Neural%20Networks%20in%20TensorFlow/Exercise_1_Cats_vs_Dogs_Question-FINAL.ipynb)
 
 #### Week 2: Augmentation, a Technique to Avoid Overfitting
 
